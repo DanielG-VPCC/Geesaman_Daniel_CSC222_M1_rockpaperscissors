@@ -8,6 +8,8 @@ int computerMove();
 int userMove();
 int resultsOfGame(int Guess, int CPU);
 
+//test again yay
+
 int main()
 {
 	int gamesPlayed = 0;

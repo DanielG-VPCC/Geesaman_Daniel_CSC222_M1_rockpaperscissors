@@ -18,8 +18,5 @@
     <ClCompile Include="Geesaman_Daniel_CSC222_M1_rockpaperscissors.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="GradeBookProject.cpp">
-      <Filter>Header Files</Filter>
-    </ClCompile>
   </ItemGroup>
 </Project>
